@@ -1,16 +1,13 @@
-### Hi there 👋
+## SodaReverse
+Welcome to my github profile! I'm Glock, and a self taught developer constantly learning new things.
 
-<!--
-**sodareverse/sodareverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Skills & Experience
+* 🌐 Web development experience with HTML, CSS, and a bit of React.
+* ⚙️ Backend development experience with Typescript, JavaScript, Python, PHP and Express.
+* 🔩 Software development experience with C and C++ still learning.
+* 🗃️ Familiar with database applications such as MYSQL and MongoDB.
+* 🗨 I'm Bilingual I speak English and Spanish fluently.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contact Information
+* ![](smalldiscord.png) **Discord** - ! sodareverse#0001
+* ![](smallsteam.png) **Steam** - [id/soda](https://steamcommunity.com/id/soda)
