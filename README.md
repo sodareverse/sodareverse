@@ -1,5 +1,5 @@
 ## SodaReverse
-Welcome to my github profile! I'm Glock, and a self taught developer constantly learning new things.
+Welcome to my github profile! I'm Soda, and a self taught developer constantly learning new things.
 
 ### 💡 Skills & Experience
 * 🌐 Web development experience with HTML, CSS, and a bit of React.
