@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Soda.++I+am+currently+studying+Back-end+technology)](https://git.io/typing-svg)
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://th.bing.com/th/id/R.ba6d7d37fa1e4ca966ac7328bf43b96c?pid=ImgRaw&r=0&rik=uPLvCopdQgxBNw)
+![hackin](https://th.bing.com/th/id/R.ba6d7d37fa1e4ca966ac7328bf43b96c?pid=ImgRaw&r=0&rik=uPLvCopdQgxBNw)
 
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
