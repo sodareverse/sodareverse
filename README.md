@@ -11,14 +11,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dxp_10)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dxp_10)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198846102391/)
-
 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxp10&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=dxp10)
+![](https://komarev.com/ghpvc/?username=sodareverse)
