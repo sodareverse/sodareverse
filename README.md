@@ -16,3 +16,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxp10&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=sodareverse)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sodareverse&&theme=tokyonight&layout=compact)
