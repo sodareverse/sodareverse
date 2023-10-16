@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,ae,activitypub,apollo,au,azure,c,cs,cpp,crystal,cloudflare,css,js,lua&perline=3)](https://learncpp.com)
 
 ### Socials I use:
-[![Socials](https://skillicons.dev/icons?i=discord,bots,dotnet,instagram&perline=3)](https://learncpp.com)
+[![Socials](https://skillicons.dev/icons?i=discord,bots,dotnet,instagram&perline=9)](https://learncpp.com)
 
 
 
