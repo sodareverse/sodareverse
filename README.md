@@ -4,7 +4,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
  ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,ae,activitypub,apollo,au,azure,c,cs,cpp,crystal,cloudflare,css,js,lua,ps,java,atom,autocad,blender,bsd,bash,bevy,coffeescript,dart,dotnet,elixir,express,figma,gamemakerstudio,gcp,github,,githubactions,gitlab,gradle,linux,md,mongodb,nestjs,nodejs,nginx,mysql,py,stackoverflow&perline=10)](https://learncpp.com)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,ae,activitypub,apollo,au,azure,c,cs,cpp,crystal,cloudflare,css,js,lua,ps,java,atom,autocad,blender,bsd,bash,bevy,coffeescript,dart,dotnet,elixir,express,figma,gamemakerstudio,gcp,github,githubactions,gitlab,gradle,linux,md,mongodb,nestjs,nodejs,nginx,mysql,py,stackoverflow&perline=10)](https://learncpp.com)
 
 ### Socials I use:
 [![Socials](https://skillicons.dev/icons?i=discord,bots,dotnet,instagram&perline=9)](https://learncpp.com)
