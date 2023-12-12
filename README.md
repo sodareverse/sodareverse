@@ -1,16 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Soda.++And+I+am+a+Full+stack+developer.)](https://git.io/typing-svg)
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Raghav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodareverse" alt="sodareverse" /> </p>
 
- ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,ae,activitypub,apollo,au,azure,c,cs,cpp,crystal,cloudflare,css,js,lua,ps,java,atom,autocad,blender,bsd,bash,bevy,coffeescript,dart,dotnet,elixir,express,figma,gamemakerstudio,gcp,github,githubactions,gitlab,gradle,linux,md,mongodb,nestjs,nodejs,nginx,mysql,py,stackoverflow&perline=24)](https://learncpp.com)
+I'm a C++ and C# enthusiast currently mastering reverse engineering.
 
-### Socials I use:
-[![Socials](https://skillicons.dev/icons?i=discord,bots,dotnet,instagram&perline=9)](https://learncpp.com)
+- 🔭 I’m currently working on taking rest  
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on C++ projects and web development projects
+- 💬 Ask me about anything and everything 
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaden.daft@yahoo.com)](mailto:kaden.daft@yahoo.com)
+- 🦇: The quiter you are, the more you are able to hear
+
+### Some Stats About Soda
+<p align="center" >
+<img alt="Soda's github stats" src="https://github-readme-stats.vercel.app/api?username=sodareverse&show_icons=true&theme=merko"  > </p>
 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxp10&theme=github_dark) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sodareverse&&theme=tokyonight&layout=compact)
-![](https://komarev.com/ghpvc/?username=sodareverse)
+❤ From [soda](https://github.com/sodareverse)
