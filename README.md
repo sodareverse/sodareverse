@@ -3,7 +3,7 @@
 Hello, I'm Soda! I'm a full stack developer currently working on getting a degree in computer science.
 
 About me 🌎:
-- Security engineer at <a href="https://www.luminex.lol/">Luminex</a>
+- Security engineer at <a href="https://www.luminex.com/">Luminex</a>
 - Computer science student
 
 ### Some of my GitHub stats
