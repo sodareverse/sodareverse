@@ -7,7 +7,7 @@ About me 🌎:
 - Computer science student
 
 # Languages I know
-<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,csharp,html,css,php,js,java,react">
+<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,c,html,css,php,js,java,react">
 
 ### Some of my GitHub stats
 <p align="center" >
