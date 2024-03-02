@@ -23,7 +23,7 @@ About me 🌎:
 <img alt="Soda's github stats" src="https://github-readme-stats.vercel.app/api?username=sodareverse&show_icons=true&theme=merko"  > </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sodareverse&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff">
+<img src="https://streak-stats.demolab.com/?user=sodareverse&theme=merko">
 </p>
 
 
