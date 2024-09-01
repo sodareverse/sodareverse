@@ -1,6 +1,6 @@
 # Hello 👋
 
-Hello, I'm Soda! I'm a full stack developer currently working on getting a degree in computer science.
+Hello, I'm Soda! I'm a full stack developer currently working on personal projects.
 
 About me 🌎:
 - Security engineer at <a href="https://www.luminex.com/">Luminex</a>
